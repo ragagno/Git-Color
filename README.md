@@ -1,6 +1,5 @@
 # Git Color
 Git Color is a tool that fetches colors for all languages supported by [Gitlab](https://gitlab.com) and [Github](https://github.com/) using linguist.
-It is used for [Graphene](https://gitlab.com/ragagno/graphene).
 
 ## Running
 git-color
